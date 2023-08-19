@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **Java, Dart, Flutter**
 
-- 📫 How to reach me : **ranjeetsingh98965@gmail.com**
+- 📫 How to reach me: **ranjeetsingh98965@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
