@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Singh</h1>
-<h3 align="center">Android Developer || Flutter Developer || React Native || java || XML ||</h3>
+<h3 align="center">Android Developer || Flutter Developer || React Native || java || XML </h3>
 
 - 🔭 I’m currently working on **Flutter**
 
