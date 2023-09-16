@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Ranjeet Singh</h1>
 <h3 align="center">Android Developer || Flutter Developer || React Native || java || XML </h3>
 
-- 🔭 I’m currently working on **Flutter**
+- 🔭 I’m currently working on **React Native**
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java, Dart, Flutter**
+- 💬 Ask me about **Java, Dart, Flutter, React Native**
 
 - 📫 How to reach me: **ranjeetsingh98965@gmail.com**
 
