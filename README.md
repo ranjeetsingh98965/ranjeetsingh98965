@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **React Native**
 
-- 💬 Ask me about **Java, Dart, Flutter, React Native**
+- 💬 Ask me about **React Native**
 
 - 📫 How to reach me: **ranjeetsingh98965@gmail.com**
 
