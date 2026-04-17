@@ -98,3 +98,23 @@
 
 ## ⚡ Fun Fact  
 💡 I build apps that are not just functional — but **used by real users at scale** 🚀
+
+## 🔥 Top Repositories  
+
+<p align="center">
+  <a href="https://github.com/ranjeetsingh98965/PhotoVerse">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetsingh98965&repo=PhotoVerse&theme=tokyonight&border_radius=12" />
+  </a>
+ <a href="https://github.com/ranjeetsingh98965/NewsNest">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetsingh98965&repo=NewsNest&theme=tokyonight&border_radius=12" />
+  </a>
+</p>
+
+<p align="center">
+   <a href="https://github.com/ranjeetsingh98965/Quiz-Me-App">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetsingh98965&repo=Quiz-Me-App&theme=tokyonight&border_radius=12" />
+  </a>
+  <a href="https://github.com/ranjeetsingh98965/Stranger-P2P-Video-Calling-App-">
+    <img width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=ranjeetsingh98965&repo=Stranger-P2P-Video-Calling-App-&theme=tokyonight&border_radius=12" />
+  </a>
+</p>
